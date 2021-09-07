@@ -1,5 +1,5 @@
 ## Bypassed Audios
 
-Working | Song ID | Song
+Working      | Song ID       | Song
 ------------ | ------------- | -------------
-- [x] ✔️     | boob          | tiddy
+✔️           | boob          | tiddy
