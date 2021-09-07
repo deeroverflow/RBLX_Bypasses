@@ -1,7 +1,8 @@
 # Bypassed Audios
 
 ### Disruptive Noises
-Sound | Audio ID
+Sound         | Audio ID
+------------- | -------------
 Loud Moaning | 7202349017
 
 ### Disruptive Songs 
