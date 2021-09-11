@@ -30,6 +30,8 @@ NWA - Automobile | 7377379797 | ❌
 NWA - Findum, Fuckem and Flee | 7377611406 | ❌
 Saweetie ft. Doja Cat - Best Friend | 7417116070 | ❌
 Ghostemane - 1000 ROUNDS | 7409434012 | ❌
+$UICIDEBOY$ - Magazine | 7409382534 | ❌
+(Long Intro) Sinoda - KUJO FREESTYLE | 7430804763 | ❌ 
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
