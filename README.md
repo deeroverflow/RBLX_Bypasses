@@ -33,6 +33,7 @@ Ghostemane - 1000 ROUNDS | 7409434012 | ❌
 $UICIDEBOY$ - Magazine | 7409382534 | ❌
 (Long Intro) Sinoda - KUJO FREESTYLE | 7430804763 | ❌
 Bickle - Control | 7429564461 | ❌
+ZAR - GOD IS DEAD | 7433739097 | ❌
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
