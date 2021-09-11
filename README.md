@@ -35,7 +35,14 @@ $UICIDEBOY$ - Magazine | 7409382534 | ❌
 (Long Intro) Sinoda - KUJO FREESTYLE | 7430804763 | ❌
 Bickle - Control | 7429564461 | ❌
 ZAR - GOD IS DEAD | 7433739097 | ❌
+Lil Darkie - Moving Fast | 7433193781 | ❌
+XXXTENTACION - Jocelyn Flores | 7027654710 | ❌
+Erectile Dysfunction | 7022678823 | ❌
+Bhad Babie - Gucci Flip Flops | 7198524248 | ❌
+
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
 Snails House - Hot Milk | 786465393 | ✅
+Gangsters Paradise | 6991593597 | ❌
+This is America | 7192940137 | ❌
