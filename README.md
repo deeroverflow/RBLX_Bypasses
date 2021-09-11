@@ -28,6 +28,7 @@ Unknown - You Just Got Slayed | 7201848228 | ❌
 Fat Cocks And Drugs 3 (ultim_2503 x 99kxMacoo) | 7354961195 | ❌
 NWA - Automobile | 7377379797 | ❌
 NWA - Findum, Fuckem and Flee | 7377611406 | ❌
+Saweetie ft. Doja Cat - Best Friend | 7417116070 | ❌
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
