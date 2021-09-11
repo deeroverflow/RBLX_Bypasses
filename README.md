@@ -24,6 +24,7 @@ Hentai | 7313600729 | ❌
 Doja Cat - Like That | 7239433465 | ❌
 Meghan Trainor - (LITERALLY) All About That Bass (No Treble) | 288954084 | ✅
 Jay Sean - Down | 7440803929 | ❌
+Unknown - You Just Got Slayed | 7201848228 | ❌
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
