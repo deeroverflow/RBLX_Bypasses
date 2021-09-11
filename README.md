@@ -11,6 +11,7 @@ Loud Farting | 7260013433 | ✅
 r/arabfunny siren | 5136341396 | ✅
 Louder r/arabfunny siren | 6243260174 | ✅
 Diarrhea | 7142909182 | ✅
+Aw Shit, a rat! | 3332263868 | ❌
 
 ### Disruptive Songs 
 Song          | Audio ID     | For Sale
