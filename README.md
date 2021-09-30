@@ -44,6 +44,7 @@ El Alfa x CJ x El Cherry Scom - La Mamá de la Mamá | 6975983450 | ❌
 Subway Sexist | 7231744214 | ❌
 Loud Asian Music | 7503666223 | ❌
 Loud Peppa Pig Remix | 6095173136 | ✅
+Auschwitz | 6833281867 | ❌
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
