@@ -52,6 +52,7 @@ Propaganda???? | 6832919769 | ❌
 Miku Bait | 7172748746 | ❌
 Loud Nyan Cat | 7600808353 | ❌
 I aint got no iPhone | 7338289048 | ✅
+Really Loud Wii Shop | 2601996855 | ✅
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
