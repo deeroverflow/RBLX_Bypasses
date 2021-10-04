@@ -45,8 +45,9 @@ Subway Sexist | 7231744214 | ❌
 Loud Asian Music | 7503666223 | ❌
 Loud Peppa Pig Remix | 6095173136 | ✅
 Auschwitz | 6833281867 | ❌
-Propaganda???? | 6832919769 | no
-Miku Bait | 7172748746 | no 
+Propaganda???? | 6832919769 | ❌
+Miku Bait | 7172748746 | ❌
+Loud Nyan Cat | 7600808353 | ❌
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
