@@ -20,7 +20,6 @@ Really Loud Alarm Clock | 250405141 | ✅
 ### Disruptive Songs 
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
-Dicko Mode | 7376994117 | ❌
 Physchadelic Techno Death | 7374544771 | ❌
 Loud Beat | 3542427323 | ❌
 Goodmorning Tokyo | 7313658812 | ❌
