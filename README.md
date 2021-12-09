@@ -40,6 +40,11 @@ Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
 
+### BASS HEAVY
+Song          | Audio ID     | FS? 
+--------------| ------------ | -----------
+fruity song | 4598193232 | idk
+
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
