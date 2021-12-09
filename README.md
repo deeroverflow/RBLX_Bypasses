@@ -55,7 +55,7 @@ Single Discord Ping | 5606942182 | ✅
 iPhone Note | 639589431 | ✅
 iPhone TriTone | 5870917123 | ✅
 
-### Automatically Added
+### Automatically Added (Sort these later..)
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ------------
 
