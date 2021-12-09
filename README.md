@@ -40,19 +40,12 @@ Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
 
-### BASS HEAVY
-Song          | Audio ID     | FS? 
---------------| ------------ | -----------
-fruity song | 4598193232 | idk
-
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
 Snails House - Hot Milk | 786465393 | ✅
 Gangsters Paradise | 6991593597 | ❌
 This is America | 7192940137 | ❌
-Today was a Good Day - Ice Cube | 8167817307 | ❌
-Snoop Dog - Gin n Juice | 8151665518 | ❌
 
 ### General Nuisances
 Sound         | Audio ID     | For Sale
@@ -60,4 +53,13 @@ Sound         | Audio ID     | For Sale
 iPhone Reflection Ringtone | 5290192655 | ✅
 Single Discord Ping | 5606942182 | ✅
 iPhone Note | 639589431 | ✅
-iPhone TriTone | 5870917123 | ✅
+iPhone TriTone | 5870917123 | ✅dirty gay christmas | 8173939315 | ❌
+cupcakke old town road | 7335987199 | ❌
+cum zone | 8176141261 | ❌
+loud random noise | 4631006506 | ❌
+
+### Automatically Added
+Sound         | Audio ID     | For Sale
+------------- | ------------ | ------------
+
+Scheduled Check completed at Thu Dec  9 03:45:21 EST 2021
