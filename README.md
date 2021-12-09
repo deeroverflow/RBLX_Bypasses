@@ -53,10 +53,7 @@ Sound         | Audio ID     | For Sale
 iPhone Reflection Ringtone | 5290192655 | ✅
 Single Discord Ping | 5606942182 | ✅
 iPhone Note | 639589431 | ✅
-iPhone TriTone | 5870917123 | ✅dirty gay christmas | 8173939315 | ❌
-cupcakke old town road | 7335987199 | ❌
-cum zone | 8176141261 | ❌
-loud random noise | 4631006506 | ❌
+iPhone TriTone | 5870917123 | ✅
 
 ### Automatically Added
 Sound         | Audio ID     | For Sale
