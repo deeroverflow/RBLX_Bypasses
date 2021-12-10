@@ -39,6 +39,15 @@ Auschwitz | 6833281867 | ❌
 Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
+cum zone | 8176141261 | ❌
+racist George Floyd | 7330123551 | ❌
+racist country song | 8177234761 | ❌
+dirty gay christmas | 8173939315 | ❌
+CupCakke - Old Town Hoe | 7335987199 | ❌
+Bunny Girl | 7989968847 | ❌
+Loud Phonk | 8000761659 | ❌
+loud russian hardbass | 7203882592 | ❌
+Nickelodeon | 3479336292 | ❌
 
 ### Bypassed Songs
 Song          | Audio ID     | For Sale
