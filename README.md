@@ -58,5 +58,14 @@ iPhone TriTone | 5870917123 | ✅
 ### Automatically Added (Sort these later..)
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ----------
+cum zone | 8176141261 | ❌
+racist George Floyd | 7330123551 | ❌
+racist country song | 8177234761 | ❌
+dirty gay christmas | 8173939315 | ❌
+CupCakke - Old Town Hoe | 7335987199 | ❌
+Bunny Girl | 7989968847 | ❌
+Loud Phonk | 8000761659 | ❌
+loud russian hardbass | 7203882592 | ❌
+Nickelodeon | 3479336292 | ❌
 
-Scheduled Check completed at Fri Dec 10 03:33:30 UTC 2021
+Scheduled Check completed at Fri Dec 10 04:09:28 UTC 2021
