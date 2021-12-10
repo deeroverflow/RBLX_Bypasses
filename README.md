@@ -58,6 +58,5 @@ iPhone TriTone | 5870917123 | ✅
 ### Automatically Added (Sort these later..)
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ----------
-a | b | ✅
 
 Scheduled Check completed at Fri Dec 10 03:27:20 UTC 2021
