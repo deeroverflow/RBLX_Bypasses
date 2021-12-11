@@ -66,5 +66,10 @@ iPhone TriTone | 5870917123 | ✅
 ### Automatically Added (Sort these later..)
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ----------
+Sussy baka | 6877757156 | ✅
+XXXTentacion Fuck Love | 8215371554 | ❌
+6ix9ine Gummo | 8214256060 | ❌
+TayK Hard | 7254783108 | ❌
+(SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
 
-Scheduled Check completed at Fri Dec 10 18:30:33 UTC 2021
+Scheduled Check completed at Sat Dec 11 18:30:40 UTC 2021
