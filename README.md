@@ -71,5 +71,6 @@ XXXTentacion Fuck Love | 8215371554 | ❌
 6ix9ine Gummo | 8214256060 | ❌
 TayK Hard | 7254783108 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
+every swear word | 6846362300 | ❌
 
-Scheduled Check completed at Mon Dec 13 18:30:36 UTC 2021
+Scheduled Check completed at Tue Dec 14 18:30:35 UTC 2021
