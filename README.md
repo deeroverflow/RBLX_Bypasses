@@ -3,7 +3,6 @@
 ### Disruptive Noises
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ------------
-Loud Moaning | 7202349017 | ❌
 PornHub Intro | 4686489968 | ✅
 Loud Whistles | 382307977 | ✅
 Sr Pelo Loud Scream | 5113630674 | ✅
