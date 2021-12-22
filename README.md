@@ -69,7 +69,7 @@ XXXTentacion Fuck Love | 8215371554 | ❌
 6ix9ine Gummo | 8214256060 | ❌
 TayK Hard | 7254783108 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
-every swear word | 6846362300 | ❌
+n word | 6846362300 | ❌
 Hentai Moaning | 7287455589 | ❌
 ginger snxps i beat my dick | 6911924175 | ❌
 penis in my mouth | 6804440210 | ✅
