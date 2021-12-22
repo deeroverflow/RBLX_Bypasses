@@ -78,5 +78,13 @@ repeated n slur | 6811297384 | ❌
 loud default boombox | 4518485657 | ❌
 cupcakke in the USA | 7445816452 | ❌
 cupcakke smack my ass remix (long intro) | 7324919192 | ✅
+gay noticed lil mosey | 7022684910 | ❌
+hold up (obnoxiously loud) | 5001241576 | ❌
+loud ass phonk | 4881795742 | ❌
+LOUD ASS BASS | 3979509564 | ❌
+spongebob chase | 1100552247 | ✅
+(long intro) cringy singing rap | 5001894443 | ❌
+loud ass country roads | 4982174415 | ❌
+asian racist song  | 4902274112 | ❌
 
-Scheduled Check completed at Wed Dec 22 18:30:39 UTC 2021
+Scheduled Check completed at Wed Dec 22 19:24:09 UTC 2021
