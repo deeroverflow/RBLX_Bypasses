@@ -85,5 +85,13 @@ spongebob chase | 1100552247 | ✅
 (long intro) cringy singing rap | 5001894443 | ❌
 loud ass country roads | 4982174415 | ❌
 asian racist song  | 4902274112 | ❌
+loud christmas phonk | 5531039657 | ❌
+non distorted dirty gay christmas | 7621720795 | ❌
+slowed hip hop (bass heavy) | 8316851008 | ❌
+loud asian music | 5667860664 | ❌
+idk wtf this is but it might be loud | 8104792819 | ❌
+slut ppcocaine | 6770158045 | ❌
+loud cod zombies | 5575238884 | ❌
+shrek song | 4611379053 | ❌
 
-Scheduled Check completed at Wed Dec 22 20:29:47 UTC 2021
+Scheduled Check completed at Wed Dec 22 20:47:45 UTC 2021
