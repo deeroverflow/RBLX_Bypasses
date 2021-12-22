@@ -34,7 +34,6 @@ Bhad Babie - Gucci Flip Flops | 7198524248 | ❌
 Subway Sexist | 7231744214 | ❌
 Loud Asian Music | 7503666223 | ❌
 Loud Peppa Pig Remix | 6095173136 | ✅
-Auschwitz | 6833281867 | ❌
 Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
@@ -85,5 +84,5 @@ LOUD ASS BASS | 3979509564 | ❌
 spongebob chase | 1100552247 | ✅
 (long intro) cringy singing rap | 5001894443 | ❌
 loud ass country roads | 4982174415 | ❌
-asian racist song  | 4902274112 | ❌
-Scheduled Check completed at Wed Dec 22 20:14:48 UTC 2021
+asian racist song  | 4902274112 | �
+Scheduled Check completed at Wed Dec 22 20:21:20 UTC 2021
