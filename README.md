@@ -72,5 +72,11 @@ TayK Hard | 7254783108 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
 every swear word | 6846362300 | ❌
 Hentai Moaning | 7287455589 | ❌
+ginger snxps i beat my dick | 6911924175 | ❌
+penis in my mouth | 6804440210 | ✅
+repeated n slur | 6811297384 | ❌
+loud default boombox | 4518485657 | ❌
+cupcakke in the USA | 7445816452 | ❌
+cupcakke smack my ass remix (long intro) | 7324919192 | ✅
 
-Scheduled Check completed at Tue Dec 21 18:30:36 UTC 2021
+Scheduled Check completed at Wed Dec 22 18:30:39 UTC 2021
