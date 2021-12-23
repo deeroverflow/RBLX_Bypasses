@@ -93,5 +93,7 @@ idk wtf this is but it might be loud | 8104792819 | ❌
 slut ppcocaine | 6770158045 | ❌
 loud cod zombies | 5575238884 | ❌
 shrek song | 4611379053 | ❌
+yg my homie | 8096435253 | ❌
+spotify ads | 6856382421 | ✅
 
-Scheduled Check completed at Wed Dec 22 20:47:45 UTC 2021
+Scheduled Check completed at Thu Dec 23 18:31:40 UTC 2021
