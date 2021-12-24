@@ -67,7 +67,6 @@ Sound         | Audio ID     | For Sale
 Sussy baka | 6877757156 | ✅
 XXXTentacion Fuck Love | 8215371554 | ❌
 6ix9ine Gummo | 8214256060 | ❌
-TayK Hard | 7254783108 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
 n word | 6846362300 | ❌
 Hentai Moaning | 7287455589 | ❌
@@ -96,4 +95,4 @@ shrek song | 4611379053 | ❌
 yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 
-Scheduled Check completed at Thu Dec 23 18:31:40 UTC 2021
+Scheduled Check completed at Fri Dec 24 18:31:40 UTC 2021
