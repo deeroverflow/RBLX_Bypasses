@@ -22,7 +22,6 @@ Loud Beat | 3542427323 | ❌
 50 Cent - In The Club | 7235464850 | ❌
 Doja Cat - Like That | 7239433465 | ❌
 Meghan Trainor - (LITERALLY) All About That Bass (No Treble) | 288954084 | ✅
-Unknown - You Just Got Slayed | 7201848228 | ❌
 Saweetie ft. Doja Cat - Best Friend | 7417116070 | ❌
 Ghostemane - 1000 ROUNDS | 7409434012 | ❌
 $UICIDEBOY$ - Magazine | 7409382534 | ❌
@@ -42,7 +41,6 @@ racist George Floyd | 7330123551 | ❌
 dirty gay christmas | 8173939315 | ❌
 CupCakke - Old Town Hoe | 7335987199 | ❌
 Bunny Girl | 7989968847 | ❌
-Loud Phonk | 8000761659 | ❌
 loud russian hardbass | 7203882592 | ❌
 Nickelodeon | 3479336292 | ❌
 
@@ -74,7 +72,6 @@ ginger snxps i beat my dick | 6911924175 | ❌
 penis in my mouth | 6804440210 | ✅
 repeated n slur | 6811297384 | ❌
 cupcakke in the USA | 7445816452 | ❌
-cupcakke smack my ass remix (long intro) | 7324919192 | ✅
 gay noticed lil mosey | 7022684910 | ❌
 hold up (obnoxiously loud) | 5001241576 | ❌
 LOUD ASS BASS | 3979509564 | ❌
@@ -83,7 +80,6 @@ spongebob chase | 1100552247 | ✅
 loud ass country roads | 4982174415 | ❌
 asian racist song  | 4902274112 | ❌
 loud christmas phonk | 5531039657 | ❌
-non distorted dirty gay christmas | 7621720795 | ❌
 slowed hip hop (bass heavy) | 8316851008 | ❌
 loud asian music | 5667860664 | ❌
 idk wtf this is but it might be loud | 8104792819 | ❌
@@ -92,4 +88,4 @@ shrek song | 4611379053 | ❌
 yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 
-Scheduled Check completed at Sun Dec 26 18:31:38 UTC 2021
+Scheduled Check completed at Mon Dec 27 18:31:35 UTC 2021
