@@ -36,7 +36,6 @@ Loud Peppa Pig Remix | 6095173136 | ✅
 Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
-cum zone | 8176141261 | ❌
 racist George Floyd | 7330123551 | ❌
 dirty gay christmas | 8173939315 | ❌
 CupCakke - Old Town Hoe | 7335987199 | ❌
@@ -77,9 +76,7 @@ hold up (obnoxiously loud) | 5001241576 | ❌
 LOUD ASS BASS | 3979509564 | ❌
 spongebob chase | 1100552247 | ✅
 (long intro) cringy singing rap | 5001894443 | ❌
-loud ass country roads | 4982174415 | ❌
 asian racist song  | 4902274112 | ❌
-loud christmas phonk | 5531039657 | ❌
 slowed hip hop (bass heavy) | 8316851008 | ❌
 loud asian music | 5667860664 | ❌
 idk wtf this is but it might be loud | 8104792819 | ❌
@@ -87,5 +84,6 @@ loud cod zombies | 5575238884 | ❌
 shrek song | 4611379053 | ❌
 yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
+Lovely Peaches Burnin Itchin | 4817042795 | ✅
 
-Scheduled Check completed at Mon Dec 27 18:31:35 UTC 2021
+Scheduled Check completed at Tue Dec 28 18:31:35 UTC 2021
