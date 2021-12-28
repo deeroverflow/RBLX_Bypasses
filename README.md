@@ -88,9 +88,4 @@ shrek song | 4611379053 | ❌
 yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 
-### Oats Automatic Added
-Sound         | Audio ID     | For Sale
-------------- | ------------ | ----------
-
-
 Scheduled Check completed at Mon Dec 27 18:31:35 UTC 2021
