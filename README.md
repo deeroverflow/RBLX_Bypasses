@@ -66,7 +66,6 @@ XXXTentacion Fuck Love | 8215371554 | ❌
 6ix9ine Gummo | 8214256060 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
 n word | 6846362300 | ❌
-Hentai Moaning | 7287455589 | ❌
 ginger snxps i beat my dick | 6911924175 | ❌
 penis in my mouth | 6804440210 | ✅
 repeated n slur | 6811297384 | ❌
@@ -86,4 +85,4 @@ yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
 
-Scheduled Check completed at Tue Dec 28 18:31:35 UTC 2021
+Scheduled Check completed at Wed Dec 29 18:31:29 UTC 2021
