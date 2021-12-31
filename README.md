@@ -13,7 +13,6 @@ Diarrhea | 7142909182 | ✅
 Really Loud Alarm Clocks | 302865611 | ✅
 Even Louder Alarm Clocks | 4042697896 | ✅
 Really Loud Alarm Clock | 250405141 | ✅
-doodoo | 6269724154 | ✅
 
 ### Disruptive Songs 
 Song          | Audio ID     | For Sale
@@ -40,7 +39,6 @@ racist George Floyd | 7330123551 | ❌
 dirty gay christmas | 8173939315 | ❌
 CupCakke - Old Town Hoe | 7335987199 | ❌
 Bunny Girl | 7989968847 | ❌
-loud russian hardbass | 7203882592 | ❌
 Nickelodeon | 3479336292 | ❌
 
 ### Bypassed Songs
@@ -85,4 +83,4 @@ yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
 
-Scheduled Check completed at Thu Dec 30 18:31:28 UTC 2021
+Scheduled Check completed at Fri Dec 31 18:31:28 UTC 2021
