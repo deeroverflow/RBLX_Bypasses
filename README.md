@@ -3,7 +3,6 @@
 ### Disruptive Noises
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ------------
-PornHub Intro | 4686489968 | ✅
 Loud Whistles | 382307977 | ✅
 Sr Pelo Loud Scream | 5113630674 | ✅
 Loud Farting | 7260013433 | ✅
@@ -82,5 +81,7 @@ shrek song | 4611379053 | ❌
 yg my homie | 8096435253 | ❌
 spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
+Katy Perry Dark Horse BASS | 6888855985 | ❌
+i need anotha bump | 8428280243 | ❌
 
-Scheduled Check completed at Sat Jan  1 18:31:26 UTC 2022
+Scheduled Check completed at Sun Jan  2 18:31:32 UTC 2022
