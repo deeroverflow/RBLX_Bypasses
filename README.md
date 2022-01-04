@@ -35,7 +35,6 @@ Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
 racist George Floyd | 7330123551 | ❌
-dirty gay christmas | 8173939315 | ❌
 CupCakke - Old Town Hoe | 7335987199 | ❌
 Bunny Girl | 7989968847 | ❌
 Nickelodeon | 3479336292 | ❌
@@ -83,5 +82,8 @@ spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
 Katy Perry Dark Horse BASS | 6888855985 | ❌
 i need anotha bump | 8428280243 | ❌
+Gangsta Rap Nibba Nibba | 7019300873 | ❌
+Peanut Butter N words | 6846410750 | ❌
+(LONG INTRO, distorted) Alabama Nibba | 6971783209 | ❌
 
-Scheduled Check completed at Mon Jan  3 18:31:28 UTC 2022
+Scheduled Check completed at Tue Jan  4 18:31:37 UTC 2022
