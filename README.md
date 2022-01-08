@@ -66,7 +66,6 @@ ginger snxps i beat my dick | 6911924175 | ❌
 penis in my mouth | 6804440210 | ✅
 repeated n slur | 6811297384 | ❌
 cupcakke in the USA | 7445816452 | ❌
-gay noticed lil mosey | 7022684910 | ❌
 hold up (obnoxiously loud) | 5001241576 | ❌
 LOUD ASS BASS | 3979509564 | ❌
 spongebob chase | 1100552247 | ✅
@@ -86,4 +85,4 @@ Gangsta Rap Nibba Nibba | 7019300873 | ❌
 Peanut Butter N words | 6846410750 | ❌
 (LONG INTRO, distorted) Alabama Nibba | 6971783209 | ❌
 
-Scheduled Check completed at Fri Jan  7 18:31:29 UTC 2022
+Scheduled Check completed at Sat Jan  8 18:31:28 UTC 2022
