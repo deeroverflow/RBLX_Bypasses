@@ -34,7 +34,6 @@ Loud Peppa Pig Remix | 6095173136 | ✅
 Propaganda???? | 6832919769 | ❌
 I aint got no iPhone | 7338289048 | ✅
 Really Loud Wii Shop | 2601996855 | ✅
-racist George Floyd | 7330123551 | ❌
 CupCakke - Old Town Hoe | 7335987199 | ❌
 Bunny Girl | 7989968847 | ❌
 Nickelodeon | 3479336292 | ❌
@@ -85,4 +84,4 @@ Gangsta Rap Nibba Nibba | 7019300873 | ❌
 Peanut Butter N words | 6846410750 | ❌
 (LONG INTRO, distorted) Alabama Nibba | 6971783209 | ❌
 
-Scheduled Check completed at Sun Jan  9 18:31:28 UTC 2022
+Scheduled Check completed at Mon Jan 10 18:31:28 UTC 2022
