@@ -56,10 +56,7 @@ iPhone TriTone | 5870917123 | ✅
 Sound         | Audio ID     | For Sale
 ------------- | ------------ | ----------
 Sussy baka | 6877757156 | ✅
-XXXTentacion Fuck Love | 8215371554 | ❌
-6ix9ine Gummo | 8214256060 | ❌
 (SHOULD BE) Loud Nokia Ringtone | 7331660337 | ❌
-n word | 6846362300 | ❌
 penis in my mouth | 6804440210 | ✅
 repeated n slur | 6811297384 | ❌
 cupcakke in the USA | 7445816452 | ❌
@@ -108,4 +105,4 @@ loud ass beat | 8233001207 | ✅
 rip roach loud | 8401778519 | ✅
 saxophone beat | 5313302024 | ✅
 
-Scheduled Check completed at Wed Jan 19 18:34:42 UTC 2022
+Scheduled Check completed at Thu Jan 20 18:34:50 UTC 2022
