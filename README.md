@@ -28,7 +28,6 @@ Bickle - Control | 7429564461 | ❌
 XXXTENTACION - Jocelyn Flores | 7027654710 | ❌
 Erectile Dysfunction | 7022678823 | ❌
 Bhad Babie - Gucci Flip Flops | 7198524248 | ❌
-Subway Sexist | 7231744214 | ❌
 Loud Asian Music | 7503666223 | ❌
 Loud Peppa Pig Remix | 6095173136 | ✅
 Propaganda???? | 6832919769 | ❌
@@ -88,14 +87,12 @@ loud cowbell music | 5286657289 | ❌
 frequency ear rape | 4704587577 | ✅
 loud ass bass v2 | 8246750438 | ✅
 loud ali a intro | 4394463899 | ✅
-loud among us drip | 8220341747 | ❌
 shittyflute in the 90s | 1645149046 | ❌
 loud as fuck phonk | 7023690061 | ✅
 loud song idk the name to | 7280250887 | ✅
 loud copyright free meme music | 8229424306 | ❌
 trashyflies | 968019590 | ❌
 somewhat bassy eery music | 4517582846 | ✅
-rarin yessir | 8376066793 | ✅
 yet another bassy phonk | 7234506459 | ✅
 own band freesyle | 8258624145 | ❌
 loud ass ear rape | 4568444220 | ✅
@@ -105,4 +102,4 @@ loud ass beat | 8233001207 | ✅
 rip roach loud | 8401778519 | ✅
 saxophone beat | 5313302024 | ✅
 
-Scheduled Check completed at Thu Jan 20 18:34:50 UTC 2022
+Scheduled Check completed at Fri Jan 21 18:34:41 UTC 2022
