@@ -94,10 +94,9 @@ trashyflies | 968019590 | ❌
 somewhat bassy eery music | 4517582846 | ✅
 yet another bassy phonk | 7234506459 | ✅
 own band freesyle | 8258624145 | ❌
-loud ass ear rape | 4568444220 | ✅
 sad tiktok song | 7871527850 | ✅
 loud techno beat | 7854925621 | ✅
 rip roach loud | 8401778519 | ✅
 saxophone beat | 5313302024 | ✅
 
-Scheduled Check completed at Mon Jan 24 18:34:34 UTC 2022
+Scheduled Check completed at Tue Jan 25 18:34:36 UTC 2022
