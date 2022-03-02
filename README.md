@@ -59,7 +59,6 @@ cupcakke in the USA | 7445816452 | ❌
 san holo volume mixer breaker | 5001241576 | ❌
 LOUD ASS BASS | 3979509564 | ❌
 spongebob chase | 1100552247 | ✅
-(long intro) cringy singing rap | 5001894443 | ❌
 asian racist song  | 4902274112 | ❌
 slowed hip hop (bass heavy) | 8316851008 | ❌
 loud asian music | 5667860664 | ❌
@@ -89,4 +88,4 @@ sad tiktok song | 7871527850 | ✅
 loud techno beat | 7854925621 | ✅
 saxophone beat | 5313302024 | ✅
 
-Scheduled Check completed at Tue Mar  1 18:33:43 UTC 2022
+Scheduled Check completed at Wed Mar  2 18:33:45 UTC 2022
