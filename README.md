@@ -61,7 +61,6 @@ spongebob chase | 1100552247 | ✅
 asian racist song  | 4902274112 | ❌
 slowed hip hop (bass heavy) | 8316851008 | ❌
 loud asian music | 5667860664 | ❌
-idk wtf this is but it might be loud | 8104792819 | ❌
 spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
 Katy Perry Dark Horse BASS | 6888855985 | ❌
@@ -82,9 +81,8 @@ loud copyright free meme music | 8229424306 | ❌
 trashyflies | 968019590 | ❌
 somewhat bassy eery music | 4517582846 | ✅
 yet another bassy phonk | 7234506459 | ✅
-own band freesyle | 8258624145 | ❌
 sad tiktok song | 7871527850 | ✅
 loud techno beat | 7854925621 | ✅
 saxophone beat | 5313302024 | ✅
 
-Scheduled Check completed at Sun Mar  6 18:33:29 UTC 2022
+Scheduled Check completed at Mon Mar  7 18:33:45 UTC 2022
