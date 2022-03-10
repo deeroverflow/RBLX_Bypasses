@@ -56,7 +56,6 @@ Sussy baka | 6877757156 | ✅
 cupcakke in the USA | 7445816452 | ❌
 san holo volume mixer breaker | 5001241576 | ❌
 asian racist song  | 4902274112 | ❌
-slowed hip hop (bass heavy) | 8316851008 | ❌
 loud asian music | 5667860664 | ❌
 spotify ads | 6856382421 | ✅
 Lovely Peaches Burnin Itchin | 4817042795 | ✅
@@ -76,4 +75,4 @@ trashyflies | 968019590 | ❌
 somewhat bassy eery music | 4517582846 | ✅
 loud snoring | 9042467859 | ❌
 
-Scheduled Check completed at Wed Mar  9 18:32:58 UTC 2022
+Scheduled Check completed at Thu Mar 10 18:32:59 UTC 2022
