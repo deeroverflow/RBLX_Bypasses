@@ -38,7 +38,6 @@ Nickelodeon | 3479336292 | ❌
 Song          | Audio ID     | For Sale
 ------------- | ------------ | ------------
 Snails House - Hot Milk | 786465393 | ✅
-Gangsters Paradise | 6991593597 | ❌
 This is America | 7192940137 | ❌
 
 ### General Nuisances
@@ -75,4 +74,4 @@ trashyflies | 968019590 | ❌
 somewhat bassy eery music | 4517582846 | ✅
 loud snoring | 9042467859 | ❌
 
-Scheduled Check completed at Wed Mar 23 18:32:57 UTC 2022
+Scheduled Check completed at Thu Mar 24 18:32:52 UTC 2022
